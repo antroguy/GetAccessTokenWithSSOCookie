@@ -1,4 +1,4 @@
-# GetAccessTokenWithEntraCookie
+# GetAccessTokenWithSSOCookie
 This BOF can be used to request an access token to an entra resource using an entra ESTSAUTHPERSISTENT SSO cookie.
 
 ## Python Usage
